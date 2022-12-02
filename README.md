@@ -1,2 +1,2 @@
-# fullstackopen project exercises
+# fullstackopen projects
 Part 0 - 13
